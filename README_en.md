@@ -1,7 +1,7 @@
 
 # Privacy Policy for Anonim Community
 
-**Effective Date**: [insert date]
+**Effective Date**: [14.12.2024]
 
 At Anonim Community, we are committed to protecting your privacy and ensuring a safe and confidential environment for all our users. This Privacy Policy outlines the types of information we collect, how we use it, and the measures we take to safeguard your personal data.
 
@@ -44,7 +44,7 @@ You have the right to:
 - Request the deletion of your data.
 - Withdraw consent for data processing at any time, where applicable.
 
-To exercise any of these rights, please contact us at [insert contact information].
+To exercise any of these rights, please contact us at [Discord: anonimcommunity].
 
 ## 7. Changes to This Privacy Policy
 
@@ -52,5 +52,5 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ## 8. Contact Us
 
-If you have any questions or concerns regarding this Privacy Policy or the handling of your personal data, please contact us at [insert contact information].
+If you have any questions or concerns regarding this Privacy Policy or the handling of your personal data, please contact us at [Discord: anonimcommunity].
 
